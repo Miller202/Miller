@@ -8,7 +8,6 @@
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - :construction_worker: I'm currently working at Seduc (Alagoas Department of Education).
 - :pencil: Currently, I'm scientific researcher at the NEES - UFAL and assistant professor at the Computer Institute - UFAL.
-- :video_game: When I have some free time, I preferer to play video games, watch a movie and listen new trap musics.
 
 
 ## :mag_right: How to reach me: 
