@@ -16,9 +16,3 @@
 - [Linkedin](https://www.linkedin.com/in/michael-miller-0a6392144/)
 
 <hr>
-
-<div align="center">
-    <img style="pading: 4%;" src="https://github-readme-stats.vercel.app/api?username=Miller202&show_icons=true&theme=dracula">
-</div>
-
-
