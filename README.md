@@ -6,7 +6,7 @@
 ## Hello world! <img src="assets/Earth.gif" width="30px">
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
-- :construction_worker: I'm currently working as a BackEnd Developer at Mesha Technology.
+- :construction_worker: I'm currently working as a Backend Developer at Mesha Technology.
 - :pencil: Currently, I'm data analyst, software developer and researcher at the ministry of Education (MEC) and NEES - UFAL.
 
 
