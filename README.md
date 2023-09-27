@@ -7,7 +7,7 @@
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - :construction_worker: I'm currently working as a Backend Developer at Mesha Technology.
-- :pencil: Currently, I'm data analyst, software developer and researcher at the ministry of Education (MEC) and NEES - UFAL.
+- :pencil: Currently, I'm data analyst and researcher at the ministry of Education (MEC) and NEES - UFAL.
 
 
 ## :mag_right: How to reach me: 
