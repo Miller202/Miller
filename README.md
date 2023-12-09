@@ -5,7 +5,7 @@
 
 ## Hello world! <img src="assets/Earth.gif" width="30px">
 
-- ✍ Graduate in computer science - UFAL;
+- ✍ Graduate in Computer Science - UFAL;
 - :construction_worker: Backend Developer at Mesha Technology.
 - :pencil: Data analyst and Researcher at the ministry of Education (MEC) and NEES(UFAL).
 
