@@ -7,7 +7,7 @@
 
 - ✍ Master degree student, AI for Education - UFAL;
 - ✍ Graduate in Computer Science - UFAL;
-- :construction_worker: Backend Developer at Mesha Technology.
+- :construction_worker: Data Engineer At NAVA.
 - :pencil: Data analyst and Researcher at the ministry of Education (MEC) and NEES(UFAL).
 
 
